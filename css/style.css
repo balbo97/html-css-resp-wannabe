@@ -129,18 +129,18 @@ img {
 ************************************************/
 
 /* MEDIA QUERY  */
-@media screen and (max-width: 1139px){
+@media screen and (max-width: 768px){
     
     .container {
-        max-width: 768px;
+        max-width: 100%;
         margin: 0 auto;
         padding: 0 20px;
     }
 }
 
-@media screen and (max-width: 767px){
+@media screen and (max-width: 480px){
     .container{
-        max-width: 480px;
+        max-width: 100%;
         margin: 0 auto;
         padding: 0 20px;
     }
